@@ -1,0 +1,1009 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"eq",
+				"eqHeight"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"or",
+				"orangeDark"
+			],
+			[
+				"data",
+				"data-href"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"clos",
+				"closest"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"ad",
+				"advSearOpt"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"eas",
+				"easeOutBounce"
+			],
+			[
+				"inde",
+				"timeIndex"
+			],
+			[
+				"time",
+				"timeIndex"
+			],
+			[
+				"y",
+				"yearWidth"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"pro",
+				"productHeight"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tabs",
+				"tabspot"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"footerBanner"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"blueGreyLight"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bl",
+				"bluegreyLight"
+			],
+			[
+				"no",
+				"noneMobile"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Ex",
+				"ExamineQuery"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"grid",
+				"gridWidth"
+			],
+			[
+				"g",
+				"gridWidth"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"clear",
+				"clearContext"
+			],
+			[
+				"nu",
+				"numMobItems"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"fla",
+				"flagPos"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"elm",
+				"elm"
+			],
+			[
+				"v",
+				"visibility	visibility: type"
+			],
+			[
+				"html",
+				"<html>${1001:$SELECTION}</html>"
+			],
+			[
+				"style",
+				"<style type=\"text/css\">${1001:$SELECTION}</style>"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ar",
+				"arial"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"border-",
+				"border-radius2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"backg",
+				"background	background-color: transparent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/script.js",
+			"settings":
+			{
+				"buffer_size": 188,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML5-startup"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Enable Package"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Fetch"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jro/Documents/GitHub/simple-test-site/website.sublime-workspace",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/resources/sass/styles.scss",
+		"/C/Users/jro/Desktop/website/resources/sass/styles.scss",
+		"/C/Users/jro/Desktop/website/resources/CompassWatch.cmd",
+		"/C/Users/jro/Desktop/website/website.sublime-workspace",
+		"/C/Users/jro/Desktop/website/resources/sass/modules/_checkout.scss",
+		"/C/Users/jro/Desktop/website/resources/sass/core/_globals.scss",
+		"/C/Users/jro/Desktop/website/resources/html/globalsearch.html",
+		"/C/Users/jro/Desktop/website/dlg.sublime-workspace",
+		"/D/Solutions/DLG 1134/website - Copy/index.html",
+		"/D/Solutions/DLG 1134/website/index.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/styles.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/footer.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_footer.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_variables.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_globals.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_checkout.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_footer.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/checkout.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_shop-basket.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/shop-confirm.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_shop-confirm.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/shop-basket.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_sections.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/semantic/_grid.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_typography.scss",
+		"/D/Solutions/APL 1312/Website/HTML/less/variables.less",
+		"/D/Solutions/APL 1312/Website/HTML/less/type.less",
+		"/D/Solutions/APL 1312/Website/HTML/index.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_header.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_megamenu.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_sprites.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/core/_mixins.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/shop-login.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_shop-login.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/news.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_news.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/_core.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_basket.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_quickbasket.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/_modules.scss",
+		"/D/Solutions/DLG 1134/website/resources/js/script.js",
+		"/D/Solutions/DLG 1134/website/resources/css/styles.css",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_input.scss",
+		"/D/Solutions/DLG 1134/website/resources/js/libs/jquery.infieldlabel.min.js",
+		"/D/Solutions/BAN540/Website/index.html",
+		"/D/Solutions/DLG 1134/website/resources/js/plugins/jquery.1508.addClearfix.js",
+		"/D/Solutions/BAN540/Website/resources/js/script.js",
+		"/D/Solutions/DLG 1134/website/resources/js/modules/checkout.js",
+		"/C/Users/jro/Desktop/New folder/index - Copy.html",
+		"/C/Users/jro/Desktop/New folder/index.html",
+		"/D/Solutions/DLG 1134/website/resources/html/colors.html",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_globalsearch.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_productcard.scss",
+		"/D/Solutions/DLG 1134/website/resources/sass/modules/_campaign.scss",
+		"/D/Solutions/DLG 1134/website/resources/html/basket.html",
+		"/D/Solutions/DLG 1134/website/resources/html/megamenu.html",
+		"/D/Solutions/DLG 1134/website/resources/js/modules/megamenu.js",
+		"/D/Solutions/DLG 1134/website/resources/js/plugins/megamenu.js",
+		"/C/Users/jro/Downloads/OverlayEffectMenu/index.html",
+		"/C/Users/jro/Downloads/OverlayEffectMenu/css/style.css",
+		"/D/Solutions/BAN540/Website/resources/js/jquery.validate.min.js",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_typo.scss",
+		"/C/Users/jro/Desktop/møde.txt",
+		"/D/Solutions/BAN540/Website/test.html",
+		"/C/Users/jro/Dropbox/Sitecore XSLT tips.htm",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_isotope.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_globals.scss",
+		"/D/Solutions/DAA 542/Agenda.Website/resources/sass/_isotope.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/_modules.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_newsletterSignup.scss",
+		"/D/Solutions/AAU 1306/index.html",
+		"/D/Solutions/AAU 1306/resources/sass/_typografi.scss",
+		"/D/Solutions/BAN540/Website/resources/js/jquery.validate.min - original.js",
+		"/C/Users/jro/Downloads/jquery-validation-1.10.0/demo/radio-checkbox-select-demo.html",
+		"/C/Users/jro/Downloads/jquery-validation-1.10.0/jquery.validate.min.js",
+		"/C/Users/jro/Downloads/jquery-validation-1.10.0/lib/jquery.metadata.js",
+		"/C/Users/jro/Downloads/jquery-validation-1.10.0/demo/index.html",
+		"/D/Solutions/BAN540/Website/resources/js/jquery.infieldlabel.min.js",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_tabs.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_footer.scss",
+		"//dev3/Solutions/GDA 1235/gyldendal-akademisk.dk/Website/css/base.less",
+		"//dev3/Solutions/GDA 1235/gyldendal-akademisk.dk/Website/css/screen.css",
+		"//dev3/Solutions/GDA 1235/gyldendal-akademisk.dk/Website/css/styleHans.less.css",
+		"//dev3/Solutions/GDA 1235/gyldendal-akademisk.dk/Website/Scripts/script.js",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_bannerspot.scss",
+		"/C/Users/jro/Downloads/carouFredSel-6.1.0/index.html",
+		"/D/Solutions/BAN540/Website/resources/js/jquery.carouFredSel-6.1.0-packed.js",
+		"/D/Solutions/BAN540/Website/resources/js/selectbox-with-local-changes.js",
+		"/D/Solutions/BAN540/Website/resources/js/selectbox.js",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_secmenu.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_timelinespot.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_webform.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_topInfo.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_infospot.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_textpage.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_output.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_targetGroup.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_dropdown.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_topNav.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_logo.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_breadcrumb.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_icons.scss",
+		"/D/Solutions/BAN540/Website/old-index.html",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_checkbox.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_pagination.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_tags.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_sprites.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/styles.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_service.scss",
+		"/C/Users/jro/Downloads/carouFredSel-6.1.0/carouFredSel-6.1.0/index.html",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_ie7.scss",
+		"/C/Users/jro/Dropbox/jquery plugins/highestCol.js",
+		"/D/Solutions/BAN540/Website/resources/css/styles.css",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_media-queries.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_mobileNav.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/print.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/core/_stickymenu.scss",
+		"/D/Solutions/BAN540/Website/resources/sass/_core.scss",
+		"/D/Solutions/BAN540/Website/resources/fonts/style.css",
+		"/D/Solutions/BAN540/Website/resources/fonts/index.html",
+		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/js/script.js",
+		"/D/Solutions/BAN540/Website/resources/sass/modules/_map.scss",
+		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/css/style.less",
+		"/C/Users/jro/Downloads/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/index.html",
+		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/config.xml",
+		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/css/jquery-ui-1.9.2.custom.css",
+		"/C/Users/jro/Downloads/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/css/smoothness/jquery-ui-1.9.2.custom.css"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.html",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"-*.html",
+			"*.scss",
+			"",
+			".spot:nth-of-type",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"globalsearch",
+			"textarea",
+			"icon",
+			"7e7e7e",
+			"Smbd",
+			"se",
+			"sem",
+			"semi",
+			"Proxima",
+			"button",
+			"bold",
+			"Proxima",
+			"inside",
+			"reset",
+			"</h2>",
+			"<h2>",
+			"4c4c4c",
+			"$font-dark",
+			"393939",
+			"button",
+			"border-ra",
+			"wrapper",
+			"footer-grey",
+			"footergrey",
+			"d8d8d8",
+			"h1",
+			"%padding",
+			".padding",
+			".narrow-row",
+			"wrapper",
+			"double",
+			"005e24",
+			"footer",
+			"007a3d",
+			"#ecece8",
+			"error",
+			"radio",
+			"2em",
+			"label",
+			"orderChoice",
+			"font-s",
+			"label",
+			"loop",
+			"box-padding",
+			"total",
+			"check",
+			"link",
+			"0d8734",
+			"button",
+			"requ",
+			"number",
+			"step",
+			".header",
+			"overlay",
+			"rale",
+			"box-padding",
+			"@include my-icons-sprite",
+			"icon",
+			"login",
+			"contact",
+			"960",
+			"ecece8",
+			"googleapis",
+			"rale",
+			"googleapis",
+			"rale",
+			"c6c7c8",
+			"f6f6f3",
+			"square-centered-image",
+			"393939",
+			"headingfont",
+			"font-si",
+			"h1",
+			"basket",
+			"_basket",
+			"@include co",
+			"box",
+			"basket",
+			"test44",
+			"te",
+			"test44",
+			"gridsystem-width",
+			"$total-width",
+			"product",
+			"shopConfirm",
+			"shopConfirm ",
+			".checkoutOrder",
+			"$column-width",
+			"shopBasket",
+			"section",
+			".section",
+			"button",
+			"dcdad6",
+			"font",
+			"ececea",
+			"box",
+			"white",
+			"d9d8d3",
+			"$background-green",
+			"button",
+			"$gray",
+			"light-green",
+			"dark",
+			"shopConfirm",
+			"step",
+			"che",
+			"checkoutOrder",
+			"button",
+			"white",
+			"393939",
+			"input",
+			"button",
+			"formElm",
+			"placeholder",
+			"addClearfix",
+			"form",
+			"infi",
+			"creat",
+			"radio",
+			"checkout",
+			"shop-login",
+			"$module-gray-background",
+			"button",
+			"font",
+			"campaign",
+			"product",
+			"@include box-sizing(border-box);",
+			"dropdown"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"css",
+			"@color17",
+			"div:nth-of-type",
+			".spot:nth-child",
+			".spot:nth-of-type",
+			"color10",
+			"color04",
+			"8px",
+			"@color16",
+			"@color03"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/js/script.js",
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scr",
+				"scripts/script.js"
+			],
+			[
+				"scri",
+				"scripts/script.js"
+			],
+			[
+				"main",
+				"layouts/Main.aspx"
+			],
+			[
+				"dropdownmenu",
+				"App_Data/serialization/master/sitecore/templates/Components/DownloadLibrary/Data/DownloadLibraryMetaData/MetaData/DownloadLibrary_ProductSelector.item"
+			],
+			[
+				"otome",
+				"css/Otometrics.less"
+			],
+			[
+				"",
+				"/C/Users/jro/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ban",
+				"/D/Solutions/BAN540/BaneDk-Project.sublime-project"
+			],
+			[
+				"bane",
+				"/D/Solutions/temp/BaneDk-Project.sublime-project"
+			],
+			[
+				"daa",
+				"/D/Solutions/DAA 542/daa-project.sublime-project"
+			],
+			[
+				"aau",
+				"/D/Solutions/AAU 1306/aau.sublime-project"
+			],
+			[
+				"resound",
+				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
+			],
+			[
+				"imp",
+				"/D/Solutions/IMP 1330/imp-project.sublime-project"
+			],
+			[
+				"res",
+				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
+			],
+			[
+				"",
+				"/C/Users/jro/Documents/My Web Sites/rougtrading/project.sublime-project"
+			],
+			[
+				"re",
+				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
+			],
+			[
+				"reso",
+				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
+			],
+			[
+				"gda",
+				"/D/Solutions/GDA 1235/gyldendal-akademisk.dk/gda.sublime-project"
+			],
+			[
+				"tdc",
+				"/D/Solutions/TDC/TDC.sublime-project"
+			],
+			[
+				"git",
+				"/C/Users/jro/Documents/GitHub/New_webproject/sublimeProject.sublime-project"
+			],
+			[
+				"resou",
+				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
