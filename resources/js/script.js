@@ -14,9 +14,6 @@
 	$(window).load(function (){
 	
 	});	
-
-
-
 	
 
 })( jQuery );

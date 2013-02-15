@@ -2,6 +2,7 @@
 ## Eclipse
 #################
 
+*.css
 *.txt
 *.sass-cache
 *.pydevproject
