@@ -2,11 +2,6 @@
 ------------------------------*/
 @import "compass";
 @import "compass/css3";
-@import "compass/reset";
+html, body{ background: #272822; color: #fd971f; font-family: sans-serif; font-size: 20px; text-shadow: 1px 1px 10px #000;}
+h1{ color: #f92672; }
 
-html, body{
-	background: #272822;
-	color: #fff;
-	margin: 0;
-	padding: 0;
-}
