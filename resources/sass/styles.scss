@@ -2,6 +2,11 @@
 ------------------------------*/
 @import "compass";
 @import "compass/css3";
-html, body{ background: #272822; color: #fd971f; font-family: sans-serif; font-size: 20px; text-shadow: 1px 1px 10px #000;}
-h1{ color: #f92672; }
 
+$background: #272822;
+$pink: #f92672;
+$orange: #fd971f;
+
+*{ box-sizing: border-box; }
+html, body{ background: $background; color: $orange; font-family: sans-serif; font-size: 20px; text-shadow: 1px 1px 10px #000;}
+h1{ color: #f92672; }

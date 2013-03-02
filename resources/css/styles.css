@@ -1,6 +1,11 @@
 /* Compass
 ------------------------------*/
-/* line 5, ../sass/styles.scss */
+/* line 10, ../sass/styles.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 11, ../sass/styles.scss */
 html, body {
   background: #272822;
   color: #fd971f;
@@ -9,7 +14,7 @@ html, body {
   text-shadow: 1px 1px 10px black;
 }
 
-/* line 6, ../sass/styles.scss */
+/* line 12, ../sass/styles.scss */
 h1 {
   color: #f92672;
 }

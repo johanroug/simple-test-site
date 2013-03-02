@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
 				"font-",
 				"font-family"
 			],
@@ -12,16 +24,8 @@
 				"list-style"
 			],
 			[
-				"text",
-				"text-transform"
-			],
-			[
 				"margin-",
 				"margin-top"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"tab",
@@ -158,10 +162,6 @@
 			[
 				"l",
 				"blueGreyLight"
-			],
-			[
-				"border",
-				"border-left"
 			],
 			[
 				"bor",
@@ -320,30 +320,11 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/C/Users/jro/Documents/GitHub/Animation/.gitignore",
 			"settings":
 			{
-				"buffer_size": 1425,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/js/script.js",
-			"settings":
-			{
-				"buffer_size": 401,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "/* Compass\n------------------------------*/\n@import \"compass\";\n@import \"compass/css3\";\n@import \"compass/reset\";\n\n.content{\n	background: red;\n	width: 100px;\n}\n\n\n\n\n\n%center{\n	text-align: center;\n	&:before{\n		content: '';\n		display: inline-block;\n		height: 100%;\n		margin-right: -0.25em; \n		vertical-align: middle;\n	}\n	> *{\n		display: inline-block;\n		vertical-align: middle;\n	}	\n}\n",
-			"file": "resources/sass/styles.scss",
-			"file_size": 377,
-			"file_write_time": 130053349493812162,
-			"settings":
-			{
-				"buffer_size": 378,
-				"line_ending": "Unix"
+				"buffer_size": 1995,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -479,8 +460,14 @@
 	},
 	"file_history":
 	[
-		"/C/Users/jro/Documents/GitHub/simple-test-site/website.sublime-workspace",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/resources/js/script.js",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/index.html",
 		"/C/Users/jro/Documents/GitHub/simple-test-site/resources/sass/styles.scss",
+		"/D/Solutions/JUM 1086/justitsministeriet_sub_belts-AND-_sub_simple/justitsministeriet_sub_belts/resources/sass/modules/_sections.scss",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/resources/css/styles.css",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/.gitignore",
+		"/C/Users/jro/Documents/GitHub/simple-test-site/website.sublime-workspace",
 		"/C/Users/jro/Desktop/website/resources/sass/styles.scss",
 		"/C/Users/jro/Desktop/website/resources/CompassWatch.cmd",
 		"/C/Users/jro/Desktop/website/website.sublime-workspace",
@@ -600,13 +587,7 @@
 		"/D/Solutions/BAN540/Website/resources/sass/_core.scss",
 		"/D/Solutions/BAN540/Website/resources/fonts/style.css",
 		"/D/Solutions/BAN540/Website/resources/fonts/index.html",
-		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/js/script.js",
-		"/D/Solutions/BAN540/Website/resources/sass/modules/_map.scss",
-		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/css/style.less",
-		"/C/Users/jro/Downloads/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/index.html",
-		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/config.xml",
-		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/css/jquery-ui-1.9.2.custom.css",
-		"/C/Users/jro/Downloads/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/css/smoothness/jquery-ui-1.9.2.custom.css"
+		"/D/Solutions/UNV590.0502Multisite/src/UNV.Website/Themes/TPS/js/script.js"
 	],
 	"find":
 	{
@@ -660,6 +641,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".2",
+			"{",
+			".",
+			"&",
+			"{",
+			"&",
+			"{",
+			".",
 			"globalsearch",
 			"textarea",
 			"icon",
@@ -779,15 +768,7 @@
 			"infi",
 			"creat",
 			"radio",
-			"checkout",
-			"shop-login",
-			"$module-gray-background",
-			"button",
-			"font",
-			"campaign",
-			"product",
-			"@include box-sizing(border-box);",
-			"dropdown"
+			"checkout"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -820,81 +801,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/C/Users/jro/Documents/GitHub/Animation/.gitignore",
 					"settings":
 					{
-						"buffer_size": 1425,
+						"buffer_size": 1995,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								756,
-								756
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"is_xml": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 290.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/js/script.js",
-					"settings":
-					{
-						"buffer_size": 401,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								168,
-								168
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "resources/sass/styles.scss",
-					"settings":
-					{
-						"buffer_size": 378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								375,
-								172
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 206.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -980,6 +906,14 @@
 		"selected_items":
 		[
 			[
+				"jum",
+				"/D/Solutions/JUM 1086/justitsministeriet_sub_belts-AND-_sub_simple/justitsministeriet_sub_belts/Jum-belts.sublime-project"
+			],
+			[
+				"daa",
+				"/D/Solutions/DAA 542/daa-project.sublime-project"
+			],
+			[
 				"dlg",
 				"/D/Solutions/DLG 1134/website/dlg.sublime-project"
 			],
@@ -990,10 +924,6 @@
 			[
 				"bane",
 				"/D/Solutions/temp/BaneDk-Project.sublime-project"
-			],
-			[
-				"daa",
-				"/D/Solutions/DAA 542/daa-project.sublime-project"
 			],
 			[
 				"aau",
@@ -1040,12 +970,12 @@
 				"/D/Solutions/RES 948/resound.com/src/resound.sublime-project"
 			]
 		],
-		"width": 380.0
+		"width": 562.0
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 232.0,
 	"status_bar_visible": true
 }
