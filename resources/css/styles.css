@@ -11,7 +11,7 @@ html, body {
   color: #fd971f;
   font-family: sans-serif;
   font-size: 20px;
-  text-shadow: 1px 1px 10px black;
+  text-shadow: 1px 1px 10px #000;
 }
 
 /* line 12, ../sass/styles.scss */
